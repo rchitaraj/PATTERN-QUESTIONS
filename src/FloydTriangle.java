@@ -1,3 +1,4 @@
+//Print floyd's trainagle //
 import java.util.Scanner;
 public class FloydTriangle {
     public static void main(String[] args) {
