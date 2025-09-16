@@ -1,3 +1,4 @@
+//Print a right angled triangle of stars//
 import java.util.Scanner;
 public class RightAngledPattern {
     public static void main(String[] args) {
