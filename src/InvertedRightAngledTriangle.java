@@ -1,3 +1,4 @@
+//Print an inverted pyramid of stars.//
 import java.util.Scanner;
 public class InvertedRightAngledTriangle {
     public static void main(String[] args) {
