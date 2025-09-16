@@ -1,4 +1,4 @@
-//Print a right angled of stars//
+//Print a half pyramid of stars//
 import java.util.Scanner;
 public class NumberRightAngledTriangle {
     public static void main(String[] args) {
