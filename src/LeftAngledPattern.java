@@ -1,3 +1,4 @@
+//Print a left angled triangle of stars//
 import java.util.Scanner;
 public class LeftAngledPattern {
     public static void main(String[] args) {
