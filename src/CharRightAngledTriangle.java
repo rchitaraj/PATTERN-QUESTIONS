@@ -1,3 +1,4 @@
+//Print half pyramid using alphabet //
 import java.util.Scanner;
 public class CharRightAngledTriangle {
     public static void main(String[] args) {
