@@ -1,3 +1,4 @@
+//Print a hollow square of stars//
 import java.util.Scanner;
 public class HollorSquare {
     public static void main(String[] args) {
